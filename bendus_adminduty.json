@@ -1,4 +1,4 @@
 {
-  "version": "1.0.1",
-  "changelog": "Added /skin [ID] command. Reworked admin zone. Players and vehicles become semi-transparent, speed limit applied, weapons and drive-by disabled inside zone. Fixed players being hittable by vehicles inside zone."
+  "version": "1.0.2",
+  "changelog": "Full refactor with optimized codebase and fixed command logic, adding missing locales and providing fully configurable commands and keybindings"
 }
