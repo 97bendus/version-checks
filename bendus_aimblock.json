@@ -1,4 +1,4 @@
 {
-  "version": "1.0.1",
-  "changelog": "Full the refactor code, added AntiStop, AntiLockON, AntiTriggerBot features"
+  "version": "1.0.2",
+  "changelog": "Major performance optimization, server-side features added, license bypass, improved anti-silent aim & aimbot protection, added debug option, AntiAimBlockTimeBasic/Advanced, ReportThresholds, ReportCooldowns, Discord webhook support with embeds, optional player identifiers logging, console fallback"
 }
